@@ -1,20 +1,13 @@
 # HACKERBLOG
 This is a hacker news clone with better readability.
 
+Objectives
+Make a frontend using react and render everything on it
+then add the jobs section form hackernews
+then add a summerizer
 
-Anjas Work
+Completed Objectives
 
-Make a Python Django Backend that accepts the response from GO scraper and stores it in the sqlite db
-
-
-Durgesh Work
-
-Make a GO scraper that send response to the Django backend with the details of hackernews
-
-Rank
-title
-url of the site in title
-score
-author(posted by)
-ago time
-comments
+Made a Go Scraper
+Made a Go send data in json to Django Endpoint
+Made Django endpoint using Django Rest
